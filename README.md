@@ -4,7 +4,7 @@
 
 ## Live Demo: <a target="_blank" href="https://masumbhai.github.io/Masum_Institution/">Masum Institution</a>
 Banglafire Solution Compamy's First Assignment
-<hr>
+
 <p align="center">
   <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="50px" alt="GitHub-Status"/>&nbsp; 
   <i style="font-size:40px;"><b>My Github Stats: &nbsp;</b></i>
@@ -12,12 +12,8 @@ Banglafire Solution Compamy's First Assignment
 </p>
 
 <p>
-  <span>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MasumBhai&exclude_repo=Treasure-Hunting-game&show_icons=true&locale=en&layout=compact&theme=great-gatsby&langs_count=10" width="380" alt="MasumBhai" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=codeSTACKr" width="440" alt="MasumBhai" />
-  </span>
+<a href="https://github.com/MasumBhai"><img alt="Abdullah Al Masum's Github Stats" src="https://github-readme-stats.vercel.app/api?username=masumBhai&show_icons=true&count_private=true&theme=great-gatsby" width=400></a>
+<a href="https://github.com/MasumBhai"><img alt="Abdullah Al Masum's Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=MasumBhai&theme=vision-friendly-dark&fire=DD2727&sideNums=CD5CDD" width=400></a>
 </p>
-
-### <img src="https://user-images.githubusercontent.com/53784551/112269306-67438180-8ca2-11eb-973e-fbd127f8f70f.png" width="30px"> my portfolio: <a href="https://masumbhai.github.io/personal_portfolio/">Here's my complete portfolio</a>
 
 <hr>
